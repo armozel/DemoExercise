@@ -6,7 +6,8 @@ Visual Studio 2017/2019 (community edition should work)<br/>
 Install the following: 
   * ASP.NET and web development
   * Data storage and processing
-  * SQL Server Express 2016 LocalDB (Found under ìIndividual componentsî tab at the top)
+  * SQL Server Express 2016 LocalDB (Found under ‚ÄúIndividual components‚Äù tab at the top)
+
 .Net Core 3.1 <br/>
 
 ## Setup
@@ -22,7 +23,7 @@ This exercise is intended to mimic a real-life programming environment. As such,
 
 
 This exercise asks you to frame out a simple login workflow using ASP.NET Core MVC. Very broadly, the layout should look similar to the ones 
-shown in the screenshots below, but you should not attempt to mimic anything too exactly. We donít need all the extra links and text in headers and footers. 
+shown in the screenshots below, but you should not attempt to mimic anything too exactly. We don‚Äôt need all the extra links and text in headers and footers. 
 
 
 You will be provided with an empty ASP.NET Core project that provides structure for your code files. You will also have a settings file with a database connection string to a 
@@ -30,7 +31,7 @@ local instance of SQL Server, where you can (if you wish and have time) create a
 design and a back end that implements the workflow and actually authenticates a user. 
 
 
-You can prioritize your time how you like to show off your skills to the best advantage. We donít expect you to finish everything, and if you have any questions feel free to reach out to Scott Johnson at sjohnson@ncco.com 
+You can prioritize your time how you like to show off your skills to the best advantage. We don‚Äôt expect you to finish everything, and if you have any questions feel free to reach out to Scott Johnson at sjohnson@ncco.com 
 
 
 ## Example pages
