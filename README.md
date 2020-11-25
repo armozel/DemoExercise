@@ -27,8 +27,8 @@ shown in the screenshots below, but you should not attempt to mimic anything too
 
 
 You will be provided with an empty ASP.NET Core project that provides structure for your code files. You will also have a settings file with a database connection string to a 
-local instance of SQL Server, where you can (if you wish and have time) create a table for user login information. An ideal solution, if you have time, would involve the front-end 
-design and a back end that implements the workflow and actually authenticates a user. 
+local instance of SQL Server, where you can (if you wish and have time) create a table for user login information. An ideal solution, if you have time, would involve the front-end design and a back end that implements the workflow and actually authenticates a user. Though you dont have to worry about security, such as password hashing or 
+implimenting an identity service.
 
 
 You can prioritize your time how you like to show off your skills to the best advantage. We don’t expect you to finish everything, and if you have any questions feel free to reach out to Scott Johnson at sjohnson@ncco.com 
