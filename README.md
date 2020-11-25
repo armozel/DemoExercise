@@ -36,9 +36,11 @@ You can prioritize your time how you like to show off your skills to the best ad
 
 ## Example pages
 Username View:
+
 ![Username view](/documentation/username.png)
 
 Password View:
+
 ![Password view](/documentation/password.png)
 
 ## After completeing assessment
