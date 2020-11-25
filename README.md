@@ -9,6 +9,7 @@ Install the following:
   * SQL Server Express 2016 LocalDB (Found under “Individual components” tab at the top)
 
 .Net Core 3.1 <br/>
+GitHub account and your preffered git client (VS has one built in, or you could use others like Git for Windows, SourceTree, etc.) <br/>
 
 ## Setup
 Please fork this repo and clone your fork onto your pc. <br/>
