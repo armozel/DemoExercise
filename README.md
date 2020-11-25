@@ -44,4 +44,4 @@ Password View:
 ![Password view](/documentation/password.png)
 
 ## After completeing assessment
-Once complete, please push your changes to your repository then create a pull request from your master branch to `johsco:Master` branch
+Once complete, please push your changes to your repository then create a pull request from your master branch to `johsco:Master` branch. During the interview, you can show us the code and walk us through it and demo it.
