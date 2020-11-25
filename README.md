@@ -14,10 +14,11 @@ GitHub account and your preffered git client (VS has one built in, or you could 
 ## Setup
 Please fork this repo and clone your fork onto your pc. <br/>
 
-You will have to mount the mdf file to MSSqlLocalDb. Easiest way to do that is through Server Explorer in VS. 
-* Right Click "Data Connections"
-* Click "Add Connection"
-* Click Browse button and navigate to `<GitFolderLocation>\DemoExercise\DemoExercise\DemoExample.mdf`
+You will have to create a Database called "DemoExercise". To do that please do the following:
+* Click on `SQL Server Object Explorer` tab. if you do not see this tab, click View > Sql Server Object Explorer in the menu bar.
+* Click the arrow next to `(localdb)\MSSQLLocalDB`
+* Right click the Databases folder then click `Add New Database`
+* Name it `DemoExercise` and click OK
 
 ## Requirements
 This exercise is intended to mimic a real-life programming environment. As such, there are no restrictions on or penalties for web searches, consulting Stack Overflow, and so on. We do ask that you try and timebox yourself to 2-3 hours to complete the task.
