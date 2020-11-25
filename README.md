@@ -18,7 +18,7 @@ You will have to mount the mdf file to MSSqlLocalDb. Easiest way to do that is t
 * Click Browse button and navigate to `<GitFolderLocation>\DemoExercise\DemoExercise\DemoExample.mdf`
 
 ## Requirements
-This exercise is intended to mimic a real-life programming environment. As such, there are no restrictions on or penalties for web searches, consulting Stack Overflow, and so on.
+This exercise is intended to mimic a real-life programming environment. As such, there are no restrictions on or penalties for web searches, consulting Stack Overflow, and so on. We do ask that you try and timebox yourself to 2-3 hours to complete the task.
 
 
 This exercise asks you to frame out a simple login workflow using ASP.NET Core MVC. Very broadly, the layout should look similar to the ones 
@@ -39,4 +39,4 @@ You can prioritize your time how you like to show off your skills to the best ad
 ![Password view](/documentation/password.png)
 
 ## After completeing assessment
-Once complete, please create a pull request from your branch to `johsco:Master` branch
+Once complete, please push your changes to your repository then create a pull request from your master branch to `johsco:Master` branch
