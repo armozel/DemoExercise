@@ -5,6 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\DemoExercise.Context\DemoExercise.Context.csproj" />
     <ProjectReference Include="..\DemoExercise.Interfaces\DemoExercise.Interfaces.csproj" />
   </ItemGroup>
 

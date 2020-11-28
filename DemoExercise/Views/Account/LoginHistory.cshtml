@@ -1,0 +1,26 @@
+﻿@using DemoExercise.Models.ViewModels
+@model LoginHistoryResultViewModel
+@{ 
+    ViewData["Title"] = "Login History";
+}
+<div class="row">
+    <div class="w-50 mx-auto">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Last Login</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var loginDate in Model.LoginDates)
+                {
+                    <tr>
+                        <td>
+                            @loginDate.ToString()
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

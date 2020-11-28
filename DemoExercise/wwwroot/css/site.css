@@ -1,6 +1,16 @@
 ﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
 for details on configuring this project to bundle and minify static web assets. */
 
+.login-panel {
+    border-radius: 5px;
+    border-color: lightgrey;
+    background-color: lightgrey;
+}
+
+.login-panel > form {
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
 a.navbar-brand {
   white-space: normal;
   text-align: center;
